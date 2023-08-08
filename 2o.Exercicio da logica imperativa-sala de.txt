@@ -1,0 +1,19 @@
+2o.Exercicio da logica imperativa-sala de
+aula com disciplina
+
+Como foi o professor quem organizou a turma, 
+ele conhece as posicoes dos alunos (conforme 
+a ilustracao 02) com as respectivas materias, 
+antes de se ausentar da sala de aula.
+
+Ao retornar a sala de aula, de posse da 
+ilustracao 02 comparou com a atual posicao
+dos alunos (conforme a ilustracao 03), assim
+descobriu qual posicao foi mudada e qual
+disciplina atual de cada posicao dos alunos.
+
+o Professor comparou a ilustracao 02 com a 
+ilustracao 03.
+
+Na realidade usou a tecnica de reconhecimento
+de padrao!
